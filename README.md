@@ -1,5 +1,5 @@
 # onlineshop
-![alt text](imag/Readme.png)
+![alt text](img/Readme.png)
 
 index.html ist eine Webseite mit einer Navigationsleiste, einem Hero-Bild und einer Diashow beliebter Produkte zu sein. Unten auf der Seite befindet sich eine Fußzeile mit Links zu sozialen Medien und rechtlichen Richtlinien.
 
