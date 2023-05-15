@@ -1,4 +1,6 @@
 # onlineshop
+![alt text](imag/Readme.png)
+
 index.html ist eine Webseite mit einer Navigationsleiste, einem Hero-Bild und einer Diashow beliebter Produkte zu sein. Unten auf der Seite befindet sich eine Fußzeile mit Links zu sozialen Medien und rechtlichen Richtlinien.
 
 shop.html ist eine weitere Webseite mit einem ähnlichen Layout zu sein, auf der jedoch Produkte zum Kauf angeboten werden. Die Seite enthält Produktbilder, Beschreibungen und Preise sowie eine Warenkorbfunktion zum Hinzufügen von Produkten zu einem Warenkorb und eine Checkout-Schaltfläche zum Abschließen des Kaufs.
